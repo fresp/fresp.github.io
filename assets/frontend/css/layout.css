@@ -1457,3 +1457,65 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+
+
+/* ----------------------------------------------------------------
+      [CUSTOM STYLE]
+---------------------------------------------------------------- */
+
+/* 20% */
+.skill-heading-1 {
+  color: #fff !important;
+  background: #ec4f22 !important;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* 40% */
+.skill-heading-2 {
+  color: #fff !important;
+  background: #5c3789 !important;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* 60% */
+.skill-heading-3 {
+  color: #fff !important;
+  background: #024da0 !important;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* 80% */
+.skill-heading-4 {
+  color: #fff !important;
+  background: #46c7f5 !important;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* 100% */
+.skill-heading-5 {
+  color: #fff !important;
+  background: #7fc13e !important;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.heading-middle{
+  /* padding: 50% 0%; */
+}
+.list-inline>li {
+  background: #03bb77;
+  margin: 2px;  
+}
+
+.list-inline>li:hover a{
+  background : #0000;
+}
